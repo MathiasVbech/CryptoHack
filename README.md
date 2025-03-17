@@ -20,6 +20,6 @@ Files are named according to the challenge they solve, organized following Crypt
 Disclaimer
 
 The purpose of sharing these solutions is not to provide shortcuts but to offer reference implementations for those who want to compare approaches after solving the challenges themselves.
-These solutions represent my personal approach - there are often multiple valid ways to solve cryptographic challenges.
+These solutions represent my personal approach.
 
 ###
