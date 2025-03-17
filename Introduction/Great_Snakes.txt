@@ -1,0 +1,7 @@
+downlaod the python script and execute it python3 great_snakes.py
+
+this will print the following. 
+Here is your flag:
+crypto{z3n_0f_pyth0n}
+
+flag: crypto{z3n_0f_pyth0n}
